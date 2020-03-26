@@ -3,6 +3,7 @@ heading: Great coffee with a conscience
 path: /products
 templateKey: product-page
 title: Our Coffee
+subtitle: This is a subtitle
 image: /img/blog-index.jpg
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
